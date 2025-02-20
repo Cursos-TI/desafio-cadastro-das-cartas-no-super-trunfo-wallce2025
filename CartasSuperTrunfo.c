@@ -34,7 +34,7 @@ int main() {
     printf("Nome da Cidade: %s\n", cidade);
 
     printf("Tamanho da area: %f\n   PIB: %f\n", area, PIB);
-    printf("Números de pontos turisticos: %d\n   População: %d\n", pontos,turisticos, populacao);
+    printf("Números de pontos turisticos: %d\n  População: %d\n", pontos,turisticos, populacao);
 
     return 0;
 }
